@@ -16,23 +16,6 @@ I am a results-driven engineer specializing in building scalable machine learnin
 
 ### 💼 Professional Experience
 
-* **AI/ML Engineer Intern @ Slay** *(June 2025 - December 2025)*:
-    * Developed a real-time virtual try-on system (Flask, Three.js, Record3D) combining 3D face processing with a collaborative filtering recommendation engine, driving a 4.2% conversion lift.
-    * Engineered a 3D computer vision pipeline (MediaPipe, OpenCV, Open3D, Trimesh) for 468-point facial landmark detection and automatic 3D asset alignment.
-    * Deployed GPU-scheduled inference pods and Ingress-routed WebSocket services on Kubernetes, managing MLflow model versioning and automated CI/CD pipelines via GitHub Actions.
-    * Optimized SQL Server/Azure SQL production databases, improving system queries and managing 12 Azure Data Factory ETL/ELT pipelines to maintain 99.5% uptime.
-
-* **Data Engineer (Experiential Learning) @ Northeastern University** *(January 2025 - June 2025)*:
-    * Designed and deployed a production-grade FastAPI & PostgreSQL booking backend on Azure Kubernetes Service (AKS) managed via Terraform.
-    * Built an asynchronous data ingestion pipeline using Redis as a message broker to decouple high-latency background PII-redaction and semantic chunking tasks from HTTP cycles.
-    * Integrated a RAG-based chatbot using LangChain and pgvector serving ~500 daily active users, reducing query latency by 50% via Redis semantic caching and hybrid retrieval.
-    * Established automated CI/CD validation gates through Azure DevOps, running automated RAGAS evaluation scripts to catch accuracy regressions.
-
-* **Software Engineer (Partner Support) @ National Instruments (NI)** *(January 2022 - August 2024)*:
-    * Served as Technical Lead for partner-channel integrations, managing cross-functional technical escalations and resolving critical bugs for enterprise partners.
-    * Developed and maintained 1,200+ migration pipelines in Azure Pipelines, reducing manual deployment efforts by 97%.
-    * Engineered C and LabVIEW drivers to integrate hardware instruments, and built automated Python (Pandas) ingestion scripts to speed up datasheet-to-driver release cycles by 40%.
-
 ---
 
 ### 🚀 Key Projects
